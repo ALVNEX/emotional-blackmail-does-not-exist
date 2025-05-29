@@ -35,4 +35,4 @@ When one or more of these systems break down, emotional strategies become fallba
 ---
 
 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
-Created by [Your Name], 2025.
+Created by [ALVNEX], 2025.
